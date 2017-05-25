@@ -1,0 +1,16 @@
+// Generated using http://rapilabs.github.io/eslintrc-generator/
+{
+    "parserOptions": {
+        "ecmaVersion": 6
+    },
+  "rules": {
+    "eqeqeq": [1,"smart"],
+    "no-fallthrough": 1,
+    "strict": [1,"global"],
+    "no-unused-vars": 1,
+    "camelcase": [1,{"properties":"always"}],
+    "no-const-assign": 1,
+    "no-var": 1,
+    "prefer-const": 1
+  }
+}

@@ -13,7 +13,7 @@ Typefi is an extension for [Brackets](https://github.com/adobe/brackets) that al
 
 ## Using Typefi
 
-Whenever you wish to print the current markdown document just hit the Typefi button. The document will be printed using Typefi and the first pdf output produced opened in your default browser. If no pdf output is produced then the first output produced is opened.
+Whenever you wish to print the current markdown document just hit the Typefi button or Ctrl-Shift-T (Command-Shift-T on macOS). The document will be printed using Typefi and the first pdf output produced opened in your default browser. If no pdf output is produced then the first output produced is opened.
 
 ## Settings
 
@@ -24,7 +24,6 @@ The Typefi server api url which is to be used for printing, such as `https://v8.
 ### workflow
 
 The full path to the workflow that is to be used for printing, such as `Acme/Documentation/Final.typefi_workflow`. This must use Markdown to Html as the first action.
-
 
 ### username
 
@@ -37,6 +36,12 @@ The password for the Typefi server.
 ### customer
 
 The customer for the Typefi server.
+
+## Source documentation
+
+Within the root folder the following JSDoc command will generate all source documentation
+
+		jsdoc readme.md lib
 
 ## Credits
 
