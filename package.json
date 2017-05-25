@@ -2,8 +2,8 @@
 	"name": "typefi",
 	"title": "Typefi",
 	"version": "1.0.0",
-	"description": "Print Markdown files",
-	"homepage": "http://www.typefi.com",
+	"description": "Allows markdown documents to be printed using Typefi",
+	"homepage": "https://github.com/typefi/brackets-typefi",
 	"author": "Justin Debuse jdebuse@typefi.com",
 	"categories": "external",
 	"keywords": [
