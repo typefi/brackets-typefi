@@ -1,0 +1,23 @@
+{
+	"name": "typefi",
+	"title": "Typefi",
+	"version": "1.0.0",
+	"description": "Print Markdown files",
+	"homepage": "http://www.typefi.com",
+	"author": "Justin Debuse jdebuse@typefi.com",
+	"categories": "external",
+	"keywords": [
+        "markdown",
+        "typefi",
+        "indesign",
+        "pdf"
+    ],
+	"files": [
+        "main.js",
+        "settings.json"
+    ],
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.9.0"
+	}
+}

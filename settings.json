@@ -1,0 +1,7 @@
+{
+	"username": "",
+	"password": "",
+	"workflow": "Typefi.typefi_workflow",
+	"customer": "",
+	"serverApi": "http:/localhost:8080/api/v2/"
+}
